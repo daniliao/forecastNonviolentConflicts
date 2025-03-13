@@ -2,6 +2,8 @@
 
 I help policymakers identify key risk factors—like prior wars, population size, and ethnic diversity—before violence begins, using machine learning models
 
+[Watch the Story](https://youtu.be/MvKcpcs-Biw)
+
 <img src="https://github.com/user-attachments/assets/e31ed82e-b84f-4ada-9bcc-a225b2d616d9" width="800" height="auto">
 
 ## Why Now?
