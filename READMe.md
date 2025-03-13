@@ -2,6 +2,8 @@
 
 I help policymakers identify key risk factors—like prior wars, population size, and ethnic diversity—before violence begins, using machine learning models
 
+<img src="https://github.com/user-attachments/assets/e31ed82e-b84f-4ada-9bcc-a225b2d616d9" width="800" height="auto">
+
 ## Why Now?
 
 Conflict studies have traditionally used Null Hypothesis Significance Testing (NHST), which lacks predictive power. This project uses machine learning on historical data to improve conflict prediction, addressing the under-researched area of nonviolent conflicts.
@@ -82,5 +84,3 @@ Datasets: NAVCO and Quality of Government (QoG)
 
 
 ![11](https://github.com/user-attachments/assets/4144461f-5cbd-45b1-9543-c01797e88074)
-
-![Untitled design-16](https://github.com/user-attachments/assets/e31ed82e-b84f-4ada-9bcc-a225b2d616d9)
